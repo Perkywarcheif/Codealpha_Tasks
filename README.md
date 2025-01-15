@@ -5,4 +5,4 @@
 ## Task 2: Calculator -> [Here](https://github.com/Perkywarcheif/Codealpha_Tasks/tree/master/Task2_Calculator)
 ## Task 4: Music Player -> [Here](https://github.com/Perkywarcheif/Codealpha_Tasks/tree/master/Task4_Music%20Player).
 
-**i have made the task numbering as per the task pdf provided**
+##I have made the task numbering as per the task pdf provided
